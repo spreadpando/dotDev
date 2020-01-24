@@ -85,7 +85,11 @@ dist
 # Gatsby files
 .cache/
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Comment in the public line in if your project uses Gatsby and not Next.js
+=======
+# Comment in the public line in if your project uses Gatsby and *not* Next.js
+>>>>>>> e4a9ecf64d1d54ada28071be380fbf9d6fddef8f
 =======
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
 >>>>>>> e4a9ecf64d1d54ada28071be380fbf9d6fddef8f
@@ -107,8 +111,11 @@ dist
 # TernJS port file
 .tern-port
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+=======
+>>>>>>> e4a9ecf64d1d54ada28071be380fbf9d6fddef8f
 =======
 >>>>>>> e4a9ecf64d1d54ada28071be380fbf9d6fddef8f
